@@ -1,0 +1,2 @@
+# wordpress
+Gist for WordPress.
